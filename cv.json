@@ -1,24 +1,27 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Pilar Martinez",
+    "cvTitle":"Front-end Developer",
+    "cvDescription":"Student at ADA ITW. Front-end developer based in Buenos Aires looking for new challenges.",
     "social":[
-        {"name":"", "link":""}
+        {"name":"instagram", "link":"instagram.com/pilisuagi"},
+        {"name":"facebook", "link":"instagram.com/pilisuagi"},
+        {"name":"twitter", "link":"instagram.com/pilisuagi"},
+        {"name":"google", "link":"instagram.com/pilisuagi"},
+        {"name":"linkedin", "link":"instagram.com/pilisuagi"}
+        
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Front-end Developer", "institution":"Ada ITW", "endYear":"2019", "description":"Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum v Lorem ipsum"},
+        {"title":"Marketing Digital", "institution":"Diplomatura en UTN", "endYear":"2018", "description":"Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum v Lorem ipsum"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Javascript", "level":"Basico"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"El titulo", "subtitle":"El subtitulo", "excerpt":"Lorem ipsum Lorem ipsum Lorem", "text":"Lorem ipsum Lorem ipsum LoremLorem ipsum Lorem ipsum Lorem", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"1139988202",
+        "email":"pilartcast@hotmail.com"
     }
 }
